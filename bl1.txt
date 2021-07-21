@@ -1,2 +1,4 @@
-<div class="gbl"></div>
+<div class="gbl">
+  <p></p>
+</div>
 <style></style>
